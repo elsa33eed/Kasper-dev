@@ -1,21 +1,32 @@
-<div align='center'><img style="width:30%" src='https://user-images.githubusercontent.com/105128267/218077760-5694a4ac-4e37-4de7-b31f-268ccd27400a.png'/></div>
+<div align='center'><img style="width:30%" src='./image/logo.png'/></div>
 
 <h2>About the project</h2>
 
-  <p>A <b>car rental</b> website is an online platform that allows users to rent cars for personal or business use. The website provides an easy-to-use interface for searching, comparing, and reserving cars from a wide selection of vehicles that vary in make, model, size, and price.</p>
+  <p>A <b>Kasper</b> is a responsive website template built with HTML and CSS. It is a modern and minimalist template that is perfect for a variety of websites, including portfolios, blogs, and business websites.
 
-👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
+The template features a clean and uncluttered design with a focus on user experience. It is also fully responsive, so it will look great on any device.
+
+<h5>Some of the key features of Kasper include:</h5>
+<ul>
+  <li>A modern and minimalist design</li>
+  <li>Fully responsive layout</li>
+  <li>Clean and uncluttered code</li>
+  <li>Easy to customize</li>
+  <li>Well-documented code</li>
+</ul>
+</p>
+
+👉 Live Demo: <a href='https://kasper-dev.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
-» Sass / Scss <br>
-» React JS
+» HTML <br>
+» CSS
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png'/>
-
+<img src='./image/Kasper.jpeg'/>
 </div>
